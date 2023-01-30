@@ -1,5 +1,3 @@
-PYTHON 🐍
-C 🧑‍💻
-Data scientist  🌐
-SQL 🤖
-Django🧑‍🎓
+Data scientist
+machina learning
+deep learning

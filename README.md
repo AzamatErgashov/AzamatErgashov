@@ -1,1 +1,9 @@
-1 year study in data science and 3 years prac
+# Hello beautiful people :)
+i'm Data Scientist programmers
+# My abilities
+# machina learning 
+# deep learning 
+# data clear/engineer
+# data vizualization 
+# Learning Data Scientist books and real proect
+# SMILE FOR YOURSELF :)

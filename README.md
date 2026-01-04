@@ -1,3 +1,3 @@
 # Hello
-i'm Data Scientist programmer 👨🏽‍💻
+i'm Backend programmer 👨🏽‍💻
 # love big problems
